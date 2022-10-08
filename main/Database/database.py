@@ -14,7 +14,7 @@
 
 import datetime
 import motor.motor_asyncio
-from .. import MONGODB_URI
+from main import MONGODB_URI
 
 SESSION_NAME = 'videoconvertor'
 

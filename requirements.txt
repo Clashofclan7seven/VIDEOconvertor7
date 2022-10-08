@@ -10,3 +10,14 @@ pymongo[srv]
 requests
 telegraph
 tgcrypto
+pyrogram==1.4.16
+
+tgcrypto
+
+pymongo
+
+dnspython
+
+ethon
+
+asyncio
